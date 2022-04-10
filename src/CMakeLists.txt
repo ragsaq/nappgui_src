@@ -40,3 +40,4 @@ desktopApp("UrlImg" "howto/urlimg" "inet" NRC_EMBEDDED)
 
 # Your projects here!
 
+desktopApp("HelloCpp2" "demo/hellocpp2" "" NRC_NONE)
